@@ -1,0 +1,11 @@
+# Ignore any cache
+__pycache__/**/*
+
+# Ignore vs code settings
+.vscode/**/*
+
+# Ignore virtual env
+venv/**/*
+
+# Ignore temp database
+temp.db
